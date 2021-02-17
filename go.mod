@@ -1,3 +1,3 @@
-module https: //github.com/bigkevmcd/taxi
+module github.com/qu1queee/taxi
 
-go 1.13
+go 1.15
